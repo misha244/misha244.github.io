@@ -1,9 +1,15 @@
 html {
-  background-color: thistle;
+  background-color: #efc3e6;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-img {
+div {
+  background-color: #b6ccfe;
+  padding: 30px 0 30px 0;
   width: 60vw;
   position: absolute;
   left: 20%;
   top: 10%;
+  text-align: center;
+  border: 3px solid #64656d;
+  border-radius: 60px;
 }
