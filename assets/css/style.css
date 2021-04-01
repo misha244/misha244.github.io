@@ -1,3 +1,9 @@
 html {
   background-color: thistle;
 }
+img {
+  width: 60vw;
+  position: absolute;
+  left: 20%;
+  top: 10%;
+}
