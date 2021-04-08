@@ -1,8 +1,8 @@
-html {
+.body-class {
   background-color: #efc3e6;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-div {
+.div {
   background-color: #b6ccfe;
   padding: 30px 0 30px 0;
   width: 60vw;
